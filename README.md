@@ -1,6 +1,6 @@
 ### Differential_Geometry_BS_KHU
   
-- Homeworks and the summarized lecture notes for statistics II (undergraduate school in KHU)
+- Homeworks and codes of differential geometry (undergraduate school in KHU)
 
 #### Instructor
 - Prof. Changyong Han
